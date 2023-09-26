@@ -1,7 +1,7 @@
 ---
-title: Find and fix bugs by using PoE
+title: Practice 4
 ---
- # Guidance
+ # Guidance of exercise 1: Find bugs and fix them by using Poe
 
  Hi students,
 
@@ -89,3 +89,8 @@ console.log("Các số nguyên tố trong khoảng từ " + start + " đến " +
  ## Step 5: Run the modified code
  - Modify the code based on suggestions from [Poe](https://poe.com/)
  - Run the modified code and make sure you have a correct output.
+
+ # Guidance of exercise 2: Use POE to generate HTML/CSS page based on the given layout
+ - Using [Poe](https://poe.com/) to develop a login page (HTML/CSS) that is similar with the given layout.
+
+ ![](/practice4.png)
